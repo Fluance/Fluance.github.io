@@ -14,14 +14,12 @@ Just drop us an email to info@fluance.ch and we will get back to you.
 ## OSIP Repositories
 | Frontend | Middleware | Security | Backend
 |:--------|:-------:|--------:|-------:|
-| [Frontend](https://github.com/Fluance/fec-frontend)   | [API](https://github.com/Fluance/fec-mw-app)   | [Security Suite](https://github.com/Fluance/fec-mw-security)   |[Backend](https://github.com/Fluance/fec-backend)   |
-|         |         |         | [XACML Policies](https://github.com/Fluance/fec-dc-xacml-policies) 
+| [Frontend](https://github.com/Fluance/fec-frontend)   | [MW API](https://github.com/Fluance/fec-mw-app)   | [Security Suite](https://github.com/Fluance/fec-mw-security)   |[Backend](https://github.com/Fluance/fec-backend)   |
 |----
-|    | [Common Libraries](https://github.com/Fluance/fec-mw-common-libraries)  |    |
+|    | [Common Libraries](https://github.com/Fluance/fec-mw-common-libraries)  | [XACML Policies](https://github.com/Fluance/fec-dc-xacml-policies)    |
 |    | [Configuration](https://github.com/Fluance/fec-configuration)   |    |
 |----
 |    | [Base Libraries](https://github.com/Fluance/fec-mw-app-base)   | 
-{: rules="groups"}
 
 Who we are
 -----------
