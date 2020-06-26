@@ -27,3 +27,20 @@ Provide an ecosystem for apps
 
 The leadership and innovation team of the average healthcare provider normally receives plenty of suggestions to implement different kind of apps and functionality. While many of these apps are not mature enough to be used in a professional healthcare environment, there are still some good and innovative ideas. However, connecting apps to your existing legacy systems is painful and often does not provide the desired results.
 OSIP gives you the ability to connect apps through simple and well secured APIs. You’re not dependent on the willingness of your providers to create standard conformant interfaces. Instead you can fuel some brilliant app programmers with a simple way to interact with your data without risk and at minimal cost.
+
+ ----
+ **Table of Contents**
+ 
+ [A. Introduction](white_paper/introduction)
+ 
+ [B. Innovation and Open Technology](white_paper/B_innovation_and_open_technology.md)
+ 
+ [C. OSIP Functionality](white_paper/C_osip_functionality.md)
+ 
+ [D. Outside the current scope of OSIP](white_paper/D_outside_the_current_scope_of_osip.md)
+ 
+ [E. Main Components of OSIP](white_paper/E_main_components_of_osip.md)
+ 
+ [F. System environment for OSIP](white_paper/F_system_environment_for_osip.md)
+ 
+ G. Implementation scenarios

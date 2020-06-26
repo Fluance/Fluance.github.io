@@ -18,4 +18,20 @@ Cost Effective: When designing the OSIP ensure that it was accessible to all was
 
 This whitepaper details the scope and functionality that the OSIP provides, and the typical scenarios that the platform provides value to. 
  
-Next: [Innovation and Open Technolog](B_innovation_and_open_technology.md)
+----
+
+**Table of Contents**
+
+A. Introduction
+
+[B. Innovation and Open Technology](white_paper/B_innovation_and_open_technology.md)
+
+[C. OSIP Functionality](white_paper/C_osip_functionality.md)
+
+[D. Outside the current scope of OSIP](white_paper/D_outside_the_current_scope_of_osip.md)
+
+[E. Main Components of OSIP](white_paper/E_main_components_of_osip.md)
+
+[F. System environment for OSIP](white_paper/F_system_environment_for_osip.md)
+
+[G. Implementation scenarios](white_paper/G_implementation_scenarios.md)

@@ -24,5 +24,19 @@ The healthcare software market is a conservative environment dominated by well e
 The OSIP is part of a new wave of software that goes against the traditional grain, and intends to nurture collaboration and innovation, though open technology and the use of standards. 
 We publish our code under the Apache 2.0 license and most of the used components are under the same or another similar license. (https://www.apache.org/licenses/LICENSE-2.0) 
 
+----
+**Table of Contents**
 
-Previouse: [Innovation and Open Technolog](B_innovation_and_open_technology.md)
+[A. Introduction](white_paper/introduction)
+
+B. Innovation and Open Technology
+
+[C. OSIP Functionality](white_paper/C_osip_functionality.md)
+
+[D. Outside the current scope of OSIP](white_paper/D_outside_the_current_scope_of_osip.md)
+
+[E. Main Components of OSIP](white_paper/E_main_components_of_osip.md)
+
+[F. System environment for OSIP](white_paper/F_system_environment_for_osip.md)
+
+[G. Implementation scenarios](white_paper/G_implementation_scenarios.md)

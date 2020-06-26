@@ -26,14 +26,21 @@ The company Fluance AG, based in Solothurn, the most beautiful baroque town of S
 
 The OSIP Whitepaper
 --------------
-To get a conceptual and technical overview of the project we recommend to read our extensive whitepaper. You can download the [full version]() or browse through our web version:
+To get a conceptual and technical overview of the project we recommend to read our extensive whitepaper. You can download the [full file version](white_paper/file/Fluance%20OSIP%20Whitepaper.pdf) or browse through our web version:
 
-[Introduction](white_paper/introduction)
-[Innovation and Open Technology](white_paper/B_innovation_and_open_technology.md)
-[OSIP Functionality](white_paper/C_osip_functionality.md)
-[Outside the current scope of OSIP](white_paper/D_outside_the_current_scope_of_osip.md)
-[System environment for OSIP](white_paper/F_system_environment_for_osip.md)
-[Implementation scenarios](white_paper/G_implementation_scenarios.md)
+[A. Introduction](white_paper/A_introduction.md)
+
+[B. Innovation and Open Technology](white_paper/B_innovation_and_open_technology.md)
+
+[C. OSIP Functionality](white_paper/C_osip_functionality.md)
+
+[D. Outside the current scope of OSIP](white_paper/D_outside_the_current_scope_of_osip.md)
+
+[E. Main Components of OSIP](white_paper/E_main_components_of_osip.md)
+
+[F. System environment for OSIP](white_paper/F_system_environment_for_osip.md)
+
+[G. Implementation scenarios](white_paper/G_implementation_scenarios.md)
 
 
 

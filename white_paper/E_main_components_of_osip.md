@@ -31,3 +31,20 @@ Web apps
 -----
 
 Our web apps are developed in Angular (https://angular.io/). We believe that this is the most versatile framework for our type of application. It gives us the ability to use the system resources of end users’ devices and allows us to bridge some network gaps in mobile and Wi-Fi networks. With modern system environments you can even provide progressive-web-apps (PWA) and improve the overall end user experience.
+
+----
+**Table of Contents**
+
+[A. Introduction](white_paper/introduction)
+
+[B. Innovation and Open Technology](white_paper/B_innovation_and_open_technology.md)
+
+[C. OSIP Functionality](white_paper/C_osip_functionality.md)
+
+[D. Outside the current scope of OSIP](white_paper/D_outside_the_current_scope_of_osip.md)
+
+E. Main Components of OSIP
+
+[F. System environment for OSIP](white_paper/F_system_environment_for_osip.md)
+
+[G. Implementation scenarios](white_paper/G_implementation_scenarios.md)

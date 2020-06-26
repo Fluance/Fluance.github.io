@@ -21,3 +21,20 @@ Primary system
 -----
 
 The goal of OSIP is to provide a framework for the management data, while at the same time allowing the data to be used for secondary purposes such as innovation. In some specific scenarios you may also want to use it to collect data however it should be noted that although this is possible it is not its intended use. 
+
+----
+**Table of Contents**
+
+[A. Introduction](white_paper/introduction)
+
+[B. Innovation and Open Technology](white_paper/B_innovation_and_open_technology.md)
+
+[C. OSIP Functionality](white_paper/C_osip_functionality.md)
+
+D. Outside the current scope of OSIP
+
+[E. Main Components of OSIP](white_paper/E_main_components_of_osip.md)
+
+[F. System environment for OSIP](white_paper/F_system_environment_for_osip.md)
+
+[G. Implementation scenarios](white_paper/G_implementation_scenarios.md)
