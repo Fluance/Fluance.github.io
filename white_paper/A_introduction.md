@@ -18,3 +18,4 @@ Cost Effective: When designing the OSIP ensure that it was accessible to all was
 
 This whitepaper details the scope and functionality that the OSIP provides, and the typical scenarios that the platform provides value to. 
  
+Next: [Innovation and Open Technolog](B_innovation_and_open_technology.md)

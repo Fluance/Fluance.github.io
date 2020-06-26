@@ -13,8 +13,8 @@ Just drop us an email to info@fluance.ch and we will get back to you.
 
 ## OSIP Repositories
 
-| Frontend | Middleware | Security | Backend
-|:--------|:-------:|--------:|-------:|
+| Frontend | Middleware | Security | Backend |
+|:--------|:-------:|:--------:|:-------:|
 | [Frontend](https://github.com/Fluance/fec-frontend)   | [MW API](https://github.com/Fluance/fec-mw-app)   |[Security Suite](https://github.com/Fluance/fec-mw-security)|[Backend](https://github.com/Fluance/fec-backend)   |
 |    | [Common Libraries](https://github.com/Fluance/fec-mw-common-libraries)  | [XACML Policies](https://github.com/Fluance/fec-dc-xacml-policies)    || 
 |    | [Configuration](https://github.com/Fluance/fec-configuration)   |    | |
@@ -27,4 +27,13 @@ The company Fluance AG, based in Solothurn, the most beautiful baroque town of S
 The OSIP Whitepaper
 --------------
 To get a conceptual and technical overview of the project we recommend to read our extensive whitepaper. You can download the [full version]() or browse through our web version:
+
+[Introduction](white_paper/introduction)
+[Innovation and Open Technology](white_paper/B_innovation_and_open_technology.md)
+[OSIP Functionality](white_paper/C_osip_functionality.md)
+[Outside the current scope of OSIP](white_paper/D_outside_the_current_scope_of_osip.md)
+[System environment for OSIP](white_paper/F_system_environment_for_osip.md)
+[Implementation scenarios](white_paper/G_implementation_scenarios.md)
+
+
 
