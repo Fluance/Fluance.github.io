@@ -1,4 +1,4 @@
-Fluance's Open Source Innovation Platform (OSIP) for Healthcare
+(OSIP) for Healthcare
 ============
 
 Welcome to Fluance
@@ -15,13 +15,15 @@ Just drop us an email to info@fluance.ch and we will get back to you.
 | Frontend | Middleware | Security | Backend
 |:--------|:-------:|--------:|-------:|
 | [Frontend](https://github.com/Fluance/fec-frontend)   | [MW API](https://github.com/Fluance/fec-mw-app)   |[Security Suite](https://github.com/Fluance/fec-mw-security)|[Backend](https://github.com/Fluance/fec-backend)   |
-|    | [Common Libraries](https://github.com/Fluance/fec-mw-common-libraries)  | [XACML Policies](https://github.com/Fluance/fec-dc-xacml-policies)    |
-|    | [Configuration](https://github.com/Fluance/fec-configuration)   |    |
-|    | [Base Libraries](https://github.com/Fluance/fec-mw-app-base)   | 
+|    | [Common Libraries](https://github.com/Fluance/fec-mw-common-libraries)  | [XACML Policies](https://github.com/Fluance/fec-dc-xacml-policies)    || 
+|    | [Configuration](https://github.com/Fluance/fec-configuration)   |    | |
+|    | [Base Libraries](https://github.com/Fluance/fec-mw-app-base)   | ||
 
 Who we are
 -----------
+The company Fluance AG, based in Solothurn, the most beautiful baroque town of Switzerland, has a lot to offer. In addition to consulting, independent project management, software development and other services in the medical IT, Fluance is on the rise in the e-health innovation area. 
 
 The OSIP Whitepaper
 --------------
-To get a conceptual and technical overview of the project we recommend to read our extensive whitepaper. You can download the full version or 
+To get a conceptual and technical overview of the project we recommend to read our extensive whitepaper. You can download the [full version]() or browse through our web version:
+
