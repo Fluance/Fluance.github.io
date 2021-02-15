@@ -43,16 +43,16 @@ Sometimes you have the data but not the right user interface. OSIP can provide i
 ----
 **Table of Contents**
 
-[A. Introduction](white_paper/introduction)
+[A. Introduction](A_introduction.mdl)
 
-[B. Innovation and Open Technology](white_paper/B_innovation_and_open_technology.md)
+[B. Innovation and Open Technology](B_innovation_and_open_technology.md)
 
 C. OSIP Functionality
 
-[D. Outside the current scope of OSIP](white_paper/D_outside_the_current_scope_of_osip.md)
+[D. Outside the current scope of OSIP](D_outside_the_current_scope_of_osip.md)
 
-[E. Main Components of OSIP](white_paper/E_main_components_of_osip.md)
+[E. Main Components of OSIP](E_main_components_of_osip.md)
 
-[F. System environment for OSIP](white_paper/F_system_environment_for_osip.md)
+[F. System environment for OSIP](F_system_environment_for_osip.md)
 
-[G. Implementation scenarios](white_paper/G_implementation_scenarios.md)
+[G. Implementation scenarios](G_implementation_scenarios.md)
