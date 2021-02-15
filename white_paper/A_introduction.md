@@ -24,13 +24,14 @@ This whitepaper details the scope and functionality that the OSIP provides, and 
 
 A. Introduction
 
-[B. Innovation and Open Technology](white_paper/B_innovation_and_open_technology.html)
-[C. OSIP Functionality](white_paper/C_osip_functionality.html)
+[B. Innovation and Open Technology](B_innovation_and_open_technology.md)
 
-[D. Outside the current scope of OSIP](white_paper/D_outside_the_current_scope_of_osip.html)
+[C. OSIP Functionality](C_osip_functionality.md)
 
-[E. Main Components of OSIP](white_paper/E_main_components_of_osip.html)
+[D. Outside the current scope of OSIP](D_outside_the_current_scope_of_osip.md)
 
-[F. System environment for OSIP](white_paper/F_system_environment_for_osip.html)
+[E. Main Components of OSIP](E_main_components_of_osip.md)
 
-[G. Implementation scenarios](white_paper/G_implementation_scenarios.html)
+[F. System environment for OSIP](F_system_environment_for_osip.md)
+
+[G. Implementation scenarios](G_implementation_scenarios.md)
