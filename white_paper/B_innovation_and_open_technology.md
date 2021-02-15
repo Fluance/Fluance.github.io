@@ -27,7 +27,7 @@ We publish our code under the Apache 2.0 license and most of the used components
 ----
 **Table of Contents**
 
-[A. Introduction](introduction)
+[A. Introduction](A_introduction.md)
 
 B. Innovation and Open Technology
 
