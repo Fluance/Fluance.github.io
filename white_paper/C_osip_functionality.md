@@ -43,7 +43,7 @@ Sometimes you have the data but not the right user interface. OSIP can provide i
 ----
 **Table of Contents**
 
-[A. Introduction](A_introduction.mdl)
+[A. Introduction](A_introduction.md)
 
 [B. Innovation and Open Technology](B_innovation_and_open_technology.md)
 
