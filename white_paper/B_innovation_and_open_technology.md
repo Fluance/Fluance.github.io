@@ -31,12 +31,12 @@ We publish our code under the Apache 2.0 license and most of the used components
 
 B. Innovation and Open Technology
 
-[C. OSIP Functionality](white_paper/C_osip_functionality.md)
+[C. OSIP Functionality](C_osip_functionality.md)
 
-[D. Outside the current scope of OSIP](white_paper/D_outside_the_current_scope_of_osip.md)
+[D. Outside the current scope of OSIP](D_outside_the_current_scope_of_osip.md)
 
-[E. Main Components of OSIP](white_paper/E_main_components_of_osip.md)
+[E. Main Components of OSIP](E_main_components_of_osip.md)
 
-[F. System environment for OSIP](white_paper/F_system_environment_for_osip.md)
+[F. System environment for OSIP](F_system_environment_for_osip.md)
 
-[G. Implementation scenarios](white_paper/G_implementation_scenarios.md)
+[G. Implementation scenarios](G_implementation_scenarios.md)
